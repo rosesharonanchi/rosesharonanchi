@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**rosesharonanchi/rosesharonanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer and Software Engineer passionate about building modern, responsive, and scalable web applications.
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on improving my frontend development skills with Next.js, TypeScript, and Tailwind CSS
+* 🌱 I’m currently learning AWS Cloud Computing (IAM, EC2, S3, Networking) and exploring DevOps technologies
+* 👯 I’m looking to collaborate on frontend, web development, and open-source projects
+* 🤔 I’m looking for help with cloud architecture, DevOps, and scalable application deployment
+* 💬 Ask me about React, Next.js, JavaScript, TypeScript, and frontend development
+* 📫 How to reach me: rosesharonanchi123@gmail.com
+* ⚡ Fun fact: I enjoy learning across different areas of tech and adapting quickly to new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* HTML & CSS
+* Git & GitHub
+* AWS (Learning)
+
+## 📚 Future Learning Goals
+
+* Docker
+* Kubernetes
+* Terraform
+* CI/CD
+* Cloud Infrastructure
